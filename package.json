@@ -1,0 +1,17 @@
+{
+  "name": "babel-plugin-syntax-switch-with",
+  "version": "1.0.0",
+  "description": "Allow parsing of switch with statement and expression",
+  "repository": "https://github.com/pj/babel-plugin-syntax-switch-with",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "babel-runtime": "^5.0.0"
+  },
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "^6.0.0"
+  }
+}
